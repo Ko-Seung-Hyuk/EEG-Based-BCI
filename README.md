@@ -3,7 +3,7 @@
 -Abstract
 
 1. We create the Direct Control Using an EEG-Based BCI
-2. This title must be using later. For example, Project, Homwork. Everything related in BCI
+2. This title must be using by later. For example, Project, Homwork. Everything related in BCI
 
 -Method
 
