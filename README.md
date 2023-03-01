@@ -10,5 +10,5 @@
 1. The main is BCI System.
 2. The BCI Equipment have many things. For example, OpenBCI.
 
--Reference
+-Preference
 1. https://github.com/xEvheMary/BCI-Interface
