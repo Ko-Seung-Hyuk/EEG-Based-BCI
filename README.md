@@ -12,3 +12,4 @@
 
 -Preference
 1. https://github.com/xEvheMary/BCI-Interface
+2. https://github.com/labstreaminglayer/pylsl
