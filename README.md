@@ -13,3 +13,7 @@
 -Preference
 1. https://github.com/xEvheMary/BCI-Interface
 2. https://github.com/labstreaminglayer/pylsl
+
+-P.E
+1. I don't know this is correct.
+2. Please check the code, If have a error, tell me.
